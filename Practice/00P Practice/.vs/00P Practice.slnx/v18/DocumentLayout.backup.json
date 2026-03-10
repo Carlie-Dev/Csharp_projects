@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\00p practice\\00p practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|solutionrelative:00p practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\00p practice\\00p practice\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|solutionrelative:00p practice\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\00p practice\\00p practice\\salad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|solutionrelative:00p practice\\salad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\00p practice\\00p practice\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|solutionrelative:00p practice\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\00p practice\\00p practice\\breadstick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011A750A-A2D9-4506-A07A-A77D97C623B3}|00P Practice\\00P Practice.csproj|solutionrelative:00p practice\\breadstick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 367,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Pizza.cs",
+              "RelativeDocumentMoniker": "00P Practice\\Pizza.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Pizza.cs",
+              "RelativeToolTip": "00P Practice\\Pizza.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:35:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salad.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Salad.cs",
+              "RelativeDocumentMoniker": "00P Practice\\Salad.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Salad.cs",
+              "RelativeToolTip": "00P Practice\\Salad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:27:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BreadStick.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\BreadStick.cs",
+              "RelativeDocumentMoniker": "00P Practice\\BreadStick.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\BreadStick.cs",
+              "RelativeToolTip": "00P Practice\\BreadStick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:19:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Food.cs",
+              "RelativeDocumentMoniker": "00P Practice\\Food.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Food.cs",
+              "RelativeToolTip": "00P Practice\\Food.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:12:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Program.cs",
+              "RelativeDocumentMoniker": "00P Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\00P Practice\\00P Practice\\Program.cs",
+              "RelativeToolTip": "00P Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:11:08.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

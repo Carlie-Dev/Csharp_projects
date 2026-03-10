@@ -1,0 +1,14 @@
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\bin\Debug\net10.0\004- To-Do List.exe
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\bin\Debug\net10.0\004- To-Do List.deps.json
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\bin\Debug\net10.0\004- To-Do List.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\bin\Debug\net10.0\004- To-Do List.dll
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\bin\Debug\net10.0\004- To-Do List.pdb
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.dll
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\refint\004- To-Do List.dll
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.pdb
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\004- To-Do List.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\004- To-Do List\004- To-Do List\obj\Debug\net10.0\ref\004- To-Do List.dll

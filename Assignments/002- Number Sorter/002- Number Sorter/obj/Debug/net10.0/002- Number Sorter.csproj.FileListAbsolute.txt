@@ -1,0 +1,14 @@
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\bin\Debug\net10.0\002- Number Sorter.exe
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\bin\Debug\net10.0\002- Number Sorter.deps.json
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\bin\Debug\net10.0\002- Number Sorter.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\bin\Debug\net10.0\002- Number Sorter.dll
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\bin\Debug\net10.0\002- Number Sorter.pdb
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.dll
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\refint\002- Number Sorter.dll
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.pdb
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\002- Number Sorter.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\002- Number Sorter\002- Number Sorter\obj\Debug\net10.0\ref\002- Number Sorter.dll

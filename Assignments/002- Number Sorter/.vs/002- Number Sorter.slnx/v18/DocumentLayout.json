@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\002- Number Sorter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F6644B-5956-409C-AD3F-9577CACB64E3}|002- Number Sorter\\002- Number Sorter.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\002- number sorter\\002- number sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F6644B-5956-409C-AD3F-9577CACB64E3}|002- Number Sorter\\002- Number Sorter.csproj|solutionrelative:002- number sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\002- Number Sorter\\002- Number Sorter\\Program.cs",
+              "RelativeDocumentMoniker": "002- Number Sorter\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\002- Number Sorter\\002- Number Sorter\\Program.cs",
+              "RelativeToolTip": "002- Number Sorter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T00:47:47.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\bin\Debug\net10.0\003- Interest Calculator.exe
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\bin\Debug\net10.0\003- Interest Calculator.deps.json
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\bin\Debug\net10.0\003- Interest Calculator.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\bin\Debug\net10.0\003- Interest Calculator.dll
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\bin\Debug\net10.0\003- Interest Calculator.pdb
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.dll
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\refint\003- Interest Calculator.dll
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.pdb
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\003- Interest Calculator.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\003- Interest Calculator\003- Interest Calculator\obj\Debug\net10.0\ref\003- Interest Calculator.dll

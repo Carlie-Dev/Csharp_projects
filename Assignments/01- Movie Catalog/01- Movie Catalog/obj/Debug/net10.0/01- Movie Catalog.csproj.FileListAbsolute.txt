@@ -1,0 +1,14 @@
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\bin\Debug\net10.0\01- Movie Catalog.exe
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\bin\Debug\net10.0\01- Movie Catalog.deps.json
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\bin\Debug\net10.0\01- Movie Catalog.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\bin\Debug\net10.0\01- Movie Catalog.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\bin\Debug\net10.0\01- Movie Catalog.pdb
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\refint\01- Movie Catalog.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.pdb
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\01- Movie Catalog.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\01- Movie Catalog\01- Movie Catalog\obj\Debug\net10.0\ref\01- Movie Catalog.dll

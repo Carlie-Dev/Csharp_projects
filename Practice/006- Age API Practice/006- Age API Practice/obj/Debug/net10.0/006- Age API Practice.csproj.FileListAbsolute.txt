@@ -1,0 +1,14 @@
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\bin\Debug\net10.0\006- Age API Practice.exe
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\bin\Debug\net10.0\006- Age API Practice.deps.json
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\bin\Debug\net10.0\006- Age API Practice.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\bin\Debug\net10.0\006- Age API Practice.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\bin\Debug\net10.0\006- Age API Practice.pdb
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\refint\006- Age API Practice.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.pdb
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\006- Age API Practice.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\006- Age API Practice\006- Age API Practice\obj\Debug\net10.0\ref\006- Age API Practice.dll

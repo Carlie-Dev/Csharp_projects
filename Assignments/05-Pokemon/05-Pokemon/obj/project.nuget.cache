@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YK6+ACGVwB4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\05-Pokemon\\05-Pokemon\\05-Pokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huffl\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

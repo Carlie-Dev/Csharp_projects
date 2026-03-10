@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\06 - pokemon midterm\\06 - pokemon midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|solutionrelative:06 - pokemon midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\06 - pokemon midterm\\06 - pokemon midterm\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|solutionrelative:06 - pokemon midterm\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\06 - pokemon midterm\\06 - pokemon midterm\\berry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|solutionrelative:06 - pokemon midterm\\berry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\06 - pokemon midterm\\06 - pokemon midterm\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|solutionrelative:06 - pokemon midterm\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\06 - pokemon midterm\\06 - pokemon midterm\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4152663E-56C0-0569-3FBE-5C85AF935868}|06 - Pokemon Midterm\\06 - Pokemon Midterm.csproj|solutionrelative:06 - pokemon midterm\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 980,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Program.cs",
+              "RelativeDocumentMoniker": "06 - Pokemon Midterm\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Program.cs",
+              "RelativeToolTip": "06 - Pokemon Midterm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:35:43.668Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Move.cs",
+              "RelativeDocumentMoniker": "06 - Pokemon Midterm\\Move.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Move.cs",
+              "RelativeToolTip": "06 - Pokemon Midterm\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:20:46.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Item.cs",
+              "RelativeDocumentMoniker": "06 - Pokemon Midterm\\Item.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Item.cs",
+              "RelativeToolTip": "06 - Pokemon Midterm\\Item.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:20:10.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Berry.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Berry.cs",
+              "RelativeDocumentMoniker": "06 - Pokemon Midterm\\Berry.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Berry.cs",
+              "RelativeToolTip": "06 - Pokemon Midterm\\Berry.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T22:18:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Pokemon.cs",
+              "RelativeDocumentMoniker": "06 - Pokemon Midterm\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\06 - Pokemon Midterm\\06 - Pokemon Midterm\\Pokemon.cs",
+              "RelativeToolTip": "06 - Pokemon Midterm\\Pokemon.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:27:27.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

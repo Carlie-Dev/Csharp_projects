@@ -1,0 +1,14 @@
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\bin\Debug\net10.0\001 - Login.exe
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\bin\Debug\net10.0\001 - Login.deps.json
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\bin\Debug\net10.0\001 - Login.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\bin\Debug\net10.0\001 - Login.dll
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\bin\Debug\net10.0\001 - Login.pdb
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.dll
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\refint\001 - Login.dll
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.pdb
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\001 - Login.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\001 - Login\001 - Login\obj\Debug\net10.0\ref\001 - Login.dll

@@ -1,0 +1,34 @@
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.exe
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.deps.json
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.pdb
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\refint\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.pdb
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\ref\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.csproj.AssemblyReference.cache
+C:\Users\huffl\source\repos\CIS_150\Practice\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pok.B39FFF25.Up2Date
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.exe
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.deps.json
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\06 - Pokemon Midterm.pdb
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.csproj.AssemblyReference.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pok.B39FFF25.Up2Date
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\refint\06 - Pokemon Midterm.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.pdb
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\06 - Pokemon Midterm.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\06 - Pokemon Midterm\06 - Pokemon Midterm\obj\Debug\net10.0\ref\06 - Pokemon Midterm.dll

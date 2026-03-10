@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\02- Shopping Cart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D76372-70D6-D376-569F-42887258841A}|Shopping Cart Test\\Shopping Cart Test.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\02- shopping cart\\shopping cart test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D76372-70D6-D376-569F-42887258841A}|Shopping Cart Test\\Shopping Cart Test.csproj|solutionrelative:shopping cart test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1258,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\02- Shopping Cart\\Shopping Cart Test\\Test1.cs",
+              "RelativeDocumentMoniker": "Shopping Cart Test\\Test1.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\02- Shopping Cart\\Shopping Cart Test\\Test1.cs",
+              "RelativeToolTip": "Shopping Cart Test\\Test1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:33:51.437Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

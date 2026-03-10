@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _04__Budget_App
+{
+    public class Expense
+    {
+        //properties
+        public double amount;
+        public string name;
+        public DateTime date;
+
+        //Constructor
+        public Expense(double amount, string name) {
+            //set date of expense to today
+            this.amount = amount;
+            this.name = name;
+            this.date = DateTime.Today;
+        }
+
+        public override string ToString() {
+            return $"Expense: {this.name} - {this.amount} - {this.date}";
+        }
+    }
+}

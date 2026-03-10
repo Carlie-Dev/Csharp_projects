@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2716F48-061A-4469-952C-5689D4EDA859}|005- Satisfying Tests\\005- Satisfying Tests.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\005- satisfying tests\\005- satisfying tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2716F48-061A-4469-952C-5689D4EDA859}|005- Satisfying Tests\\005- Satisfying Tests.csproj|solutionrelative:005- satisfying tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0455CE-FFA8-41E8-98CC-3F50FE4470CB}|005- Calculator\\005- Calculator.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\005- satisfying tests\\005- calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0455CE-FFA8-41E8-98CC-3F50FE4470CB}|005- Calculator\\005- Calculator.csproj|solutionrelative:005- calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2716F48-061A-4469-952C-5689D4EDA859}|005- Satisfying Tests\\005- Satisfying Tests.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\005- satisfying tests\\005- satisfying tests\\005- satisfying tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2716F48-061A-4469-952C-5689D4EDA859}|005- Satisfying Tests\\005- Satisfying Tests.csproj|solutionrelative:005- satisfying tests\\005- satisfying tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 367,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "005- Satisfying Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\005- Satisfying Tests\\005- Satisfying Tests.csproj",
+              "RelativeDocumentMoniker": "005- Satisfying Tests\\005- Satisfying Tests.csproj",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\005- Satisfying Tests\\005- Satisfying Tests.csproj",
+              "RelativeToolTip": "005- Satisfying Tests\\005- Satisfying Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T23:57:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\005- Satisfying Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "005- Satisfying Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\005- Satisfying Tests\\Test1.cs",
+              "RelativeToolTip": "005- Satisfying Tests\\Test1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:48:51.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\005- Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "005- Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\005- Satisfying Tests\\005- Calculator\\Program.cs",
+              "RelativeToolTip": "005- Calculator\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:48:51.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

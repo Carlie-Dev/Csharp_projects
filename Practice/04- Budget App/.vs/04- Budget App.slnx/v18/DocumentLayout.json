@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\04- budget app\\04- budget app\\overbudgetexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|solutionrelative:04- budget app\\overbudgetexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\04- budget app\\04- budget app\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|solutionrelative:04- budget app\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9653DCD8-ADA5-45B8-B04E-C287CAA9FAC8}|UnitTests\\UnitTests.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\04- budget app\\unittests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9653DCD8-ADA5-45B8-B04E-C287CAA9FAC8}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\04- budget app\\04- budget app\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|solutionrelative:04- budget app\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\04- budget app\\04- budget app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2DF5AB-AFC2-9DA2-681C-E39E99595A28}|04- Budget App\\04- Budget App.csproj|solutionrelative:04- budget app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1258,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\Category.cs",
+              "RelativeDocumentMoniker": "04- Budget App\\Category.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\Category.cs",
+              "RelativeToolTip": "04- Budget App\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:27:09.029Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\Program.cs",
+              "RelativeDocumentMoniker": "04- Budget App\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\Program.cs",
+              "RelativeToolTip": "04- Budget App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:28:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OverBudgetException.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\OverBudgetException.cs",
+              "RelativeDocumentMoniker": "04- Budget App\\OverBudgetException.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\OverBudgetException.cs",
+              "RelativeToolTip": "04- Budget App\\OverBudgetException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:27:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\Expense.cs",
+              "RelativeDocumentMoniker": "04- Budget App\\Expense.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\04- Budget App\\Expense.cs",
+              "RelativeToolTip": "04- Budget App\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:24:58.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\UnitTests\\Test1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\04- Budget App\\UnitTests\\Test1.cs",
+              "RelativeToolTip": "UnitTests\\Test1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:15:29.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

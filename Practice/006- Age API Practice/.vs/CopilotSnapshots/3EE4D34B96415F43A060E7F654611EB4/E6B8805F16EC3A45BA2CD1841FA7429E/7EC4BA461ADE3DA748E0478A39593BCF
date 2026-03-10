@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _006__Age_API_Practice
+{
+    internal class Age
+    {
+        // Public properties for JSON deserialization
+        [System.Text.Json.Serialization.JsonPropertyName("name")]
+        public string Name { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("age")]
+        public int AgeValue { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("count")]
+        public int Count { get; set; }
+
+        //default constructor
+        public Age() { }
+
+        // Constructor to initialize the Age object
+        public Age(string name, int age, int count)
+        {
+            Name = name;
+            AgeValue = age;
+            Count = count;
+        }
+
+        public override string ToString()
+        {
+            return $"Name: {Name}, Age: {AgeValue}, Count: {Count}";
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\ArraysReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0475AB8F-EAC0-42C8-8470-64C6313C60C7}|ArraysReview\\ArraysReview.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\practice\\arraysreview\\arraysreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0475AB8F-EAC0-42C8-8470-64C6313C60C7}|ArraysReview\\ArraysReview.csproj|solutionrelative:arraysreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1258,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\ArraysReview\\ArraysReview\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysReview\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Practice\\ArraysReview\\ArraysReview\\Program.cs",
+              "RelativeToolTip": "ArraysReview\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:22:17.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

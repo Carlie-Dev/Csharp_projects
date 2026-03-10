@@ -1,0 +1,17 @@
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.csproj.AssemblyReference.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.AssemblyInfoInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.AssemblyInfo.cs
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\bin\Debug\net10.0\05-Pokemon.exe
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\bin\Debug\net10.0\05-Pokemon.deps.json
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\bin\Debug\net10.0\05-Pokemon.runtimeconfig.json
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\bin\Debug\net10.0\05-Pokemon.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\bin\Debug\net10.0\05-Pokemon.pdb
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.csproj.Up2Date
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\refint\05-Pokemon.dll
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.pdb
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\05-Pokemon.genruntimeconfig.cache
+C:\Users\huffl\source\repos\CIS_150\Assignments\05-Pokemon\05-Pokemon\obj\Debug\net10.0\ref\05-Pokemon.dll

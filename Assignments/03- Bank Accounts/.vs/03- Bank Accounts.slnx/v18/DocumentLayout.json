@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\unittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\03- bank accounts\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|solutionrelative:03- bank accounts\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\03- bank accounts\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|solutionrelative:03- bank accounts\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\03- bank accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|solutionrelative:03- bank accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\03- bank accounts\\saving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|solutionrelative:03- bank accounts\\saving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|c:\\users\\huffl\\source\\repos\\cis_150\\assignments\\03- bank accounts\\03- bank accounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9C68B3-C271-FE82-B125-81E7E5E561EC}|03- Bank Accounts\\03- Bank Accounts.csproj|solutionrelative:03- bank accounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1258,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Saving.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Saving.cs",
+              "RelativeDocumentMoniker": "03- Bank Accounts\\Saving.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Saving.cs",
+              "RelativeToolTip": "03- Bank Accounts\\Saving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:56:30.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Transaction.cs",
+              "RelativeDocumentMoniker": "03- Bank Accounts\\Transaction.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Transaction.cs",
+              "RelativeToolTip": "03- Bank Accounts\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:23:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\UnitTest\\Test1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\UnitTest\\Test1.cs",
+              "RelativeToolTip": "UnitTest\\Test1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:06:33.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "03- Bank Accounts\\Account.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Account.cs",
+              "RelativeToolTip": "03- Bank Accounts\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:29:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checking.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Checking.cs",
+              "RelativeDocumentMoniker": "03- Bank Accounts\\Checking.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Checking.cs",
+              "RelativeToolTip": "03- Bank Accounts\\Checking.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:38:58.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest.csproj",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\UnitTest\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\UnitTest\\UnitTest.csproj",
+              "RelativeToolTip": "UnitTest\\UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T19:16:03.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Program.cs",
+              "RelativeDocumentMoniker": "03- Bank Accounts\\Program.cs",
+              "ToolTip": "C:\\Users\\huffl\\source\\repos\\CIS_150\\Assignments\\03- Bank Accounts\\03- Bank Accounts\\Program.cs",
+              "RelativeToolTip": "03- Bank Accounts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:22:36.481Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
